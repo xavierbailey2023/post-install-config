@@ -25,7 +25,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Item 1: Made agents and gave them access to help with tickets
 - Item 2: Configured teams and assigned agents to created teams
 - Item 3: Created departments and assigned agents
-- Item 4:
+- Item 4:Creted a new role and added permissions
 - Item 5
 
 <h2>Configuration Steps</h2>
@@ -55,7 +55,7 @@ Lorem ipsum dolor33333333333333333333333333333333quat. Duis aute irure dolor in 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Jt77Ly6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor44444444444444444444444quat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
