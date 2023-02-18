@@ -81,7 +81,7 @@ Lorem ipsum dolor666666666666666666666666666quat. Duis aute irure dolor in repre
 <br />
 
 <p>
-<img src="https://i.imgur.com/acb5Kri.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DAZBfNd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor7777777777777777777777777777777777quat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
