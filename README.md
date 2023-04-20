@@ -36,7 +36,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/V76A7v3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit 111111111111111111111mpor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Made 2 different agents and 1 system admin that would have access to osTicket.  Gave each user a username and password so they can log into osTicket. 
 </p>
 <br />
 
@@ -44,7 +44,7 @@ Lorem ipsum dolor sit 111111111111111111111mpor incididunt ut labore et dolore m
 <img src="https://i.imgur.com/eLfd3HJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor si222222222222222222222nim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Made 3 different support teams and added a user to each team and named the team based on their level of support that they can provide for incoming tickets.
 </p>
 <br />
 
@@ -52,7 +52,7 @@ Lorem ipsum dolor si222222222222222222222nim veniam, quis nostrud exercitation u
 <img src="https://i.imgur.com/CUso5Ho.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor33333333333333333333333333333333quat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Added a new department named System Administrators then gave them additional permissions that support agents do not have.
 </p>
 <br />
 
@@ -60,7 +60,7 @@ Lorem ipsum dolor33333333333333333333333333333333quat. Duis aute irure dolor in 
 <img src="https://i.imgur.com/Jt77Ly6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor44444444444444444444444quat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Different Permissions that were given to System Administrators
 </p>
 <br />
 
@@ -68,7 +68,7 @@ Lorem ipsum dolor44444444444444444444444quat. Duis aute irure dolor in reprehend
 <img src="https://i.imgur.com/ZZBt75c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor5555555555555555555555555555quat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Made and registered users that can submit tickets to the helpdesk that I created
 </p>
 <br />
 
@@ -76,7 +76,7 @@ Lorem ipsum dolor5555555555555555555555555555quat. Duis aute irure dolor in repr
 <img src="https://i.imgur.com/HQatBcu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor666666666666666666666666666quat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Made different Service Level Agreements (SLA) and gave them different completion times so that it will be easy to determine which tickets have the highest and lowest importance. 
 </p>
 <br />
 
@@ -84,6 +84,6 @@ Lorem ipsum dolor666666666666666666666666666quat. Duis aute irure dolor in repre
 <img src="https://i.imgur.com/DAZBfNd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor7777777777777777777777777777777777quat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Made different help topics so that when users create a ticket they can classify what they need help with.  This makes it easier for the helpdesk supervisor to assign tickets to the team that can best solve the problem.
 </p>
 <br />
